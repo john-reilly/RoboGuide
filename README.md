@@ -7,6 +7,8 @@
 ## new ROS availble summer 2020 for Python 3 and Tensorflow 2.X
 ## new pretrained classifer may be required for new ROS/Python/Tensorflow combination
 
+## Download complete VM with all software and code from shared drive below:
+### https://drive.google.com/open?id=18nRMI6Gu8cK4Ej1MyYeFWbvdbfv-EKlg
 
 
 ## Screenshot
